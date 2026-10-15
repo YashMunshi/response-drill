@@ -1,0 +1,18 @@
+{
+  "slug": "response-drill",
+  "name": "Response Drill",
+  "field": "Incident response",
+  "roles": "Junior Incident Response Analyst \u00b7 SOC Analyst I",
+  "headline": "Recover access with evidence.",
+  "description": "Practice a containment-and-recovery sequence with explicit prerequisites and an inspectable exercise clock.",
+  "accent": "#903e3b",
+  "pale": "#f4e6e3",
+  "display": "Space Grotesk",
+  "action": "Run response exercise",
+  "guide": [
+    "Capture evidence, revoke sessions, and disable the account. Inspect the containment checkpoint.",
+    "Append rotate-credentials, validate-recovery, and restore-account to complete recovery.",
+    "Try restoring before validation. The state machine must reject the sequence and explain the missing prerequisite."
+  ],
+  "limits": "This is a tabletop state-machine exercise. It changes no live account and executes no OS commands. Durations are simulated, not measured operational performance."
+}
