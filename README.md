@@ -4,7 +4,11 @@ Practice a containment-and-recovery sequence with explicit prerequisites and an 
 
 **Field:** Incident response  
 **Relevant roles:** Junior Incident Response Analyst · SOC Analyst I  
-**Status:** working prototype; hosting status is tracked separately.
+**Status:** working prototype, published on GitHub and Vercel.
+
+[**Open the live interactive lab**](https://response-drill.vercel.app/)
+
+The hosted lab runs synthetic exercises in your browser. See the scope below for local integration exercises and limitations.
 
 ## Run
 
